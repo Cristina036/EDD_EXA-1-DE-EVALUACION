@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author equipo donut
+ * @author anacr
  */
 public class INSERTAR_VALORES_ARREGLO {
 
